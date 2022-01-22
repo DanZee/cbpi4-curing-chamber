@@ -1,2 +1,2 @@
-include cbpi4-curing-chamber/config.yaml
-recursive-include cbpi4-curing-chamber/static *
+include cbpi4-humidifier/config.yaml
+recursive-include cbpi4-humidifier/static *
